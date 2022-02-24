@@ -1,0 +1,9 @@
+Date:  20-12-2021
+
+Version: 2.1
+
+Change log
+===================
+
+01. Add a new single product home page. 
+02. Minor css issue fixed.
